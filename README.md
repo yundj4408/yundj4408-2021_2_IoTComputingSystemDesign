@@ -1,0 +1,2 @@
+# yundj4408-2021_2_IoTComputingSystemDesign
+사물컴퓨팅시스템설계
